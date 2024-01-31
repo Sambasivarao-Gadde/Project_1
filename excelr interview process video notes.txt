@@ -1,0 +1,187 @@
+resume:
+
+keep key words - pca ,sql, etc.... in resume and linkedin
+
+unique projects
+mention strong projects 
+
+dont copy project from others resumes or already existing
+do project on own - based on specific domain , then you can get domain knowledge as well - it gives confidence -then you can answer every question.
+
+project structure - in resume
+	what is the problem with existing thing
+	aim of project: to resolve the problem
+	tool: sql,power bi etc...
+	EDA tools: you used
+	mention libraries also - in python  pandas , numpy etc..
+	what visualization - used to see data effectively
+
+extra:
+linkedin
+github reprosotiry
+kaggle
+.......................................................................................................................................................................
+interview preparation:
+
+prepare document - contain topics and project explaination , that you mention in resume
+keep your project code and results ready
+go through them regularly
+
+focus on core subjects
+sample interview question
+
+do assignment multiple times
+.......................................................................................................................................................................
+
+in interview:
+
+i learned Data analyst after my graduation -( for freasher)
+
+in that i done X,Y,Z projects ( project in main topic )
+
+how to explain project in interview:
+explain project:
+	what is present business process ( selling products)
+	what is the problem in that business process (but less revennue )
+	i taken dataset from kaggle , how you perform EDA ,
+	what kind of charts,visualization,how you handle missing values, identify imp feature from dataset
+	take sellers who contribute more in revenue- based on that create dashboards( to increase revenue -which products selling more, which age group taking that more , etc..)
+	then apply to other sellers
+	.
+	.
+	how you solve the problem in business process
+
+you can get questions on datasets-rows,columns,data clean,
+
+coursera certificate - (for freasher)
+
+first round - will be face to face interview or phone call interview - they ask basic thing - not in depth , 
+		next about project (ok if you have only 1 project , how many rows ,role , approach , etc ) , 
+			then they will give dataset - for checking analitic and reporting skills ( you have to show after 5 working days) ,
+				 present solution in good way -( they ask what is your approach , why u choose that ) 
+they dont ask for coding
+they ask sql - many times
+
+(or)
+
+they give dataset, and system - you have do EDA( exploratery Data anylysis) -do visualizations and use libraries - by python or pandas or r 
+they give dataset, and system - ask perform pivot tables , vlookup etc..
+
+create forecast - what sales happen in futures
+
+.....
+
+analyst different analysis different
+
+BFSI - banking finance serve indestry 
+type BFSI in youtube , spend 3 to 4 hour
+
+.......................................................................................................................................................................
+linkedin profile:
+
+build profile - DA skill ,certificates 
+keep update
+share your work pic ( i done this today )
+ask others to like and comment
+comment-congrats , ask question  to others post
+share post in your timeline
+get rated your skills
+.......................................................................................................................................................................
+github repository:
+upload - datasets, codes on all concept ,
+update weely bases
+.......................................................................................................................................................................
+kaggle:
+participate in compitisions
+if ur in top 100 , high chances to get selected
+build kernel in kaggle
+do EDA and post in compitition
+.......................................................................................................................................................................
+internship is very very important
+.......................................................................................................................................................................
+
+resources:
+data camp
+kaggle - good for beginer -they provide tutorials , data sets , codes , verious codes for  datasets like updations ,
+use stackoverflow
+hackerrank
+
+.......................................................................................................................................................................
+
+w3shcools - sql
+ioschool - python
+
+type - top data analyst interview question
+
+mock interview - are telephone interview
+
+based on skill they mention , apply for that . title of job dont matter .
+
+.....
+
+2 resume pic :
+1st resume
+skills rate/level
+
+max 2 pages resume
+
+skills, projects imp
+
+github , linkedin and network imp
+kaggle - fresher
+
+he saying that - he already done how to create linkedin profile , how to search , is it active job notification or not check etc..
+
+they provide few job oppertunity if they available - regularly
+
+some companies consider your intership and some not . whatever it be put you intership
+
+upgrad - check for freelancer
+
+.......................................................................................................................................................................
+put excelr project
+put b.tech projects - also related to analytic or programming
+add freelancer projects also- if you have
+
+put excelr and coursera courses completions certificates
+
+career objective
+profession summary - write about intership work
+--work experience
+education
+acedamic projects - in one section
+intership projects - in one section
+skills
+addition information
+
+.....
+
+interships ( he saying 8 months of intership - some students in excelr saying minimum 2 projects/interships (for 2 3 months intership certificate) )
+
+then do no.of projects to show experience ( it will cover -if already done projects are small in size)  || i think 2 or 3 projects - 6 or 9 months intership
+
+.....
+
+they share sample profiles ( ` is it linkedin profile ? )
+
+few skills is enough - to apply for interview , that should be strong
+
+excelr give some what small projects - but dont worry , dont mention by yourself as -no.of rows,columns etcc.. because it small , 
+							show them what is problem
+							what is your soluntion - that should be effective solution,
+							how that solution helps to organisation
+free projects in hackerearth , hackerrank , *kaggle - in completed compitition - in kernals you get code - then excute with datasets ,analitic vidya
+alex
+own project
+
+......
+
+channels for hiring:
+36% - linkedin 
+24% - job portals
+18% - institute
+13% - referals
+9% - pipeline
+
+.......................................................................................................................................................................	
+
